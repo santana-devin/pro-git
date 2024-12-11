@@ -1,4 +1,4 @@
-# Pro Git (English Edition)
+# Pro Git
 Edição Inglês  por Scott Chacon (Autor), Ben Straub (Autor)
 
 **Pro Git (Segunda Edição)** é seu guia totalmente atualizado sobre o Git e seu uso no mundo moderno. O Git percorreu um longo caminho desde que foi desenvolvido pela primeira vez por Linus Torvalds para o desenvolvimento do kernel Linux. Ele conquistou o mundo do código aberto desde seu início em 2005, e este livro ensina como usá-lo como um profissional.
